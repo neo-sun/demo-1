@@ -6,4 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-subql-contracts = { git = "https://github.com/subquery/network-contracts", branch = "kepler-network" }
+subql-contracts = { git = "https://github.com/subquery/network-contracts", branch = "fix-rust-build" }
